@@ -1,5 +1,5 @@
 # Data Structures
- University Course (CS300) Data Sturctures Homeworks with specific topics
+ University Course (CS300) Data Structures Homeworks with specific topics
  
 ## **HW1**
 Linked Lists
